@@ -1,0 +1,5 @@
+# conf-routing | geosite:faceit -> DIRECT
+# source: roscomvpn-geosite (765b86e4b6aed5da…)
+# rules: 2
+DOMAIN-SUFFIX,faceit-cdn.net
+DOMAIN-SUFFIX,faceit.com

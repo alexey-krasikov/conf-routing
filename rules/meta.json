@@ -1,0 +1,32 @@
+{
+ "geosite": {
+  "sha256": "765b86e4b6aed5da1a206304b5500c7668687fa1df8e8322c8a4961e1b672190",
+  "tag": null
+ },
+ "geoip": {
+  "sha256": "dc05234dad3665268000711bcd3fbd287d1e50b42d073799525260c9f985f25c",
+  "tag": null
+ },
+ "files": {
+  "geosite-win-spy.list": 323,
+  "geosite-torrent.list": 418,
+  "geosite-category-ads.list": 2,
+  "geosite-github.list": 28,
+  "geosite-youtube.list": 177,
+  "geosite-twitch.list": 40,
+  "geosite-telegram.list": 26,
+  "geosite-private.list": 129,
+  "geosite-category-ru.list": 55,
+  "geosite-whitelist.list": 465,
+  "geosite-apple.list": 92,
+  "geosite-epicgames.list": 27,
+  "geosite-riot.list": 54,
+  "geosite-escapefromtarkov.list": 4,
+  "geosite-steam.list": 40,
+  "geosite-origin.list": 153,
+  "geosite-pinterest.list": 50,
+  "geosite-faceit.list": 2,
+  "geoip-private.list": 17,
+  "geoip-direct.list": 35527
+ }
+}
