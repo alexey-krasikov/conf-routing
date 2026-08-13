@@ -1,6 +1,6 @@
 # conf-routing | geoip:direct -> DIRECT
-# source: roscomvpn-geoip (d76e4ddcde6efb85…)
-# rules: 35256
+# source: roscomvpn-geoip (825de8f75c9d1acd…)
+# rules: 35255
 IP-CIDR,2.26.8.0/24
 IP-CIDR,2.26.10.0/24
 IP-CIDR,2.26.89.0/24
@@ -35212,7 +35212,6 @@ IP-CIDR6,2a0c:4480:1::/48
 IP-CIDR6,2a0c:4480:2::/47
 IP-CIDR6,2a0c:4480:6::/47
 IP-CIDR6,2a0c:4480:8::/48
-IP-CIDR6,2a0c:4480:c::/48
 IP-CIDR6,2a0c:4481:1::/48
 IP-CIDR6,2a0c:4481:2::/48
 IP-CIDR6,2a0c:4481:8::/48
