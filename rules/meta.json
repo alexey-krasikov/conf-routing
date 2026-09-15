@@ -4,7 +4,7 @@
   "tag": null
  },
  "geoip": {
-  "sha256": "f96a0f7dcd1de478affbb98b5dfc49aabb2bfbd812feb54e03471f3329355007",
+  "sha256": "0ff7bd198654a0e922030e9cde7513b8b2ae1503335592e1db7811fcaa2d9a9a",
   "tag": null
  },
  "files": {
@@ -27,6 +27,6 @@
   "geosite-pinterest.list": 50,
   "geosite-faceit.list": 2,
   "geoip-private.list": 17,
-  "geoip-direct.list": 36180
+  "geoip-direct.list": 36243
  }
 }
