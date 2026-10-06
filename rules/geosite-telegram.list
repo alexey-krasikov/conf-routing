@@ -1,5 +1,5 @@
 # conf-routing | geosite:telegram -> PROXY
-# source: roscomvpn-geosite (765b86e4b6aed5da…)
+# source: roscomvpn-geosite (645c7aeaa5fe019a…)
 # rules: 26
 DOMAIN-SUFFIX,api.imem.app
 DOMAIN-SUFFIX,api.swiftgram.app

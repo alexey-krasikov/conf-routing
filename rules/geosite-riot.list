@@ -1,5 +1,5 @@
 # conf-routing | geosite:riot -> DIRECT
-# source: roscomvpn-geosite (765b86e4b6aed5da…)
+# source: roscomvpn-geosite (645c7aeaa5fe019a…)
 # rules: 54
 DOMAIN-SUFFIX,championshipseriesleague.com
 DOMAIN-SUFFIX,convrgencegame.com

@@ -1,5 +1,5 @@
 # conf-routing | geosite:whitelist -> DIRECT
-# source: roscomvpn-geosite (765b86e4b6aed5da…)
+# source: roscomvpn-geosite (645c7aeaa5fe019a…)
 # rules: 465
 DOMAIN-SUFFIX,1c-bitrix.ru
 DOMAIN-SUFFIX,1c.ru

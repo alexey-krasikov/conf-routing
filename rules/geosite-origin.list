@@ -1,5 +1,5 @@
 # conf-routing | geosite:origin -> DIRECT
-# source: roscomvpn-geosite (765b86e4b6aed5da…)
+# source: roscomvpn-geosite (645c7aeaa5fe019a…)
 # rules: 153
 DOMAIN-SUFFIX,anthemgame.com
 DOMAIN-SUFFIX,anthemthegame.com

@@ -1,5 +1,5 @@
 # conf-routing | geosite:private -> DIRECT
-# source: roscomvpn-geosite (765b86e4b6aed5da…)
+# source: roscomvpn-geosite (645c7aeaa5fe019a…)
 # rules: 129
 DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 DOMAIN-SUFFIX,10.in-addr.arpa

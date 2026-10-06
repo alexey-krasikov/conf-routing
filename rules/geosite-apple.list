@@ -1,5 +1,5 @@
 # conf-routing | geosite:apple -> DIRECT
-# source: roscomvpn-geosite (765b86e4b6aed5da…)
+# source: roscomvpn-geosite (645c7aeaa5fe019a…)
 # rules: 92
 DOMAIN-SUFFIX,api-adservices.apple.com
 DOMAIN-SUFFIX,appldnld.apple.com

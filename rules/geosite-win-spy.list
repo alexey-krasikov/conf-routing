@@ -1,5 +1,5 @@
 # conf-routing | geosite:win-spy -> REJECT
-# source: roscomvpn-geosite (765b86e4b6aed5da…)
+# source: roscomvpn-geosite (645c7aeaa5fe019a…)
 # rules: 323
 DOMAIN-SUFFIX,1oavsblobprodcus350.blob.core.windows.net
 DOMAIN-SUFFIX,37bvsblobprodcus311.blob.core.windows.net

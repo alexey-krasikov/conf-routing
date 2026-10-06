@@ -1,5 +1,5 @@
 # conf-routing | geosite:twitch -> PROXY
-# source: roscomvpn-geosite (765b86e4b6aed5da…)
+# source: roscomvpn-geosite (645c7aeaa5fe019a…)
 # rules: 40
 DOMAIN-SUFFIX,d13j2sbsb4ncgj.cloudfront.net
 DOMAIN-SUFFIX,d186rixkn5ruba.cloudfront.net

@@ -1,5 +1,5 @@
 # conf-routing | geosite:epicgames -> DIRECT
-# source: roscomvpn-geosite (765b86e4b6aed5da…)
+# source: roscomvpn-geosite (645c7aeaa5fe019a…)
 # rules: 27
 DOMAIN-SUFFIX,3lateral.com
 DOMAIN-SUFFIX,artstation.com

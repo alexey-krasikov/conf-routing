@@ -1,6 +1,6 @@
 {
  "geosite": {
-  "sha256": "765b86e4b6aed5da1a206304b5500c7668687fa1df8e8322c8a4961e1b672190",
+  "sha256": "645c7aeaa5fe019abdb551bdad3a7a81ad28b67ba6afdd9f0893e58cfd18b276",
   "tag": null
  },
  "geoip": {
@@ -16,7 +16,7 @@
   "geosite-twitch.list": 40,
   "geosite-telegram.list": 26,
   "geosite-private.list": 129,
-  "geosite-category-ru.list": 55,
+  "geosite-category-ru.list": 56,
   "geosite-whitelist.list": 465,
   "geosite-apple.list": 92,
   "geosite-epicgames.list": 27,

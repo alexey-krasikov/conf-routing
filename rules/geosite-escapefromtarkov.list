@@ -1,5 +1,5 @@
 # conf-routing | geosite:escapefromtarkov -> DIRECT
-# source: roscomvpn-geosite (765b86e4b6aed5da…)
+# source: roscomvpn-geosite (645c7aeaa5fe019a…)
 # rules: 4
 DOMAIN-SUFFIX,eft-project.com
 DOMAIN-SUFFIX,eft-store.com

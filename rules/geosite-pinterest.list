@@ -1,5 +1,5 @@
 # conf-routing | geosite:pinterest -> DIRECT
-# source: roscomvpn-geosite (765b86e4b6aed5da…)
+# source: roscomvpn-geosite (645c7aeaa5fe019a…)
 # rules: 50
 DOMAIN-SUFFIX,pin.it
 DOMAIN-SUFFIX,pinimg.com

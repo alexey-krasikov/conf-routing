@@ -1,5 +1,5 @@
 # conf-routing | geosite:github -> PROXY
-# source: roscomvpn-geosite (765b86e4b6aed5da…)
+# source: roscomvpn-geosite (645c7aeaa5fe019a…)
 # rules: 28
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
