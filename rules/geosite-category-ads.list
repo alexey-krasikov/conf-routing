@@ -1,5 +1,5 @@
 # conf-routing | geosite:category-ads -> REJECT
-# source: roscomvpn-geosite (645c7aeaa5fe019a…)
+# source: roscomvpn-geosite (6fadc9298116c552…)
 # rules: 2
 DOMAIN-SUFFIX,ad.mail.ru
 DOMAIN-SUFFIX,alt-ad.mail.ru

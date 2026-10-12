@@ -1,5 +1,5 @@
 # conf-routing | geosite:steam -> DIRECT
-# source: roscomvpn-geosite (645c7aeaa5fe019a…)
+# source: roscomvpn-geosite (6fadc9298116c552…)
 # rules: 40
 DOMAIN-SUFFIX,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN-SUFFIX,client-update.queniuqe.com
