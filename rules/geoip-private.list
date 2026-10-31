@@ -1,5 +1,5 @@
 # conf-routing | geoip:private -> DIRECT
-# source: roscomvpn-geoip (47a1a5344d3c2c33…)
+# source: roscomvpn-geoip (4fa6ab6949988eba…)
 # rules: 27
 IP-CIDR,10.0.0.0/8
 IP-CIDR,100.64.0.0/10
